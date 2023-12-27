@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Simple Web Template</title>
+<title>Aleesha Template</title>
 <style>
   /* Basic styles */
   body {
@@ -60,14 +60,11 @@
 </nav>
 
 <main>
-  <h2>Welcome to our website!</h2>
-  <p>This is a simple web template using HTML and CSS.</p>
+  <h2>Aleesha terminal task</h2>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lectus in justo tristique aliquet.</p>
 </main>
 
-<footer>
-  <p>&copy; 2023 Simple Web Template. All rights reserved.</p>
-</footer>
+
 
 </body>
 </html>
