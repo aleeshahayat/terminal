@@ -61,8 +61,8 @@
 </nav>
 
 <main>
-  <h2> Aleesha </h2>
-  <h2> Fa20-bse-043</h2>
+  <h2> Aqsa </h2>
+  <h2> FA20-BSE-027 </h2>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lectus in justo tristique aliquet.</p>
 </main>
 
