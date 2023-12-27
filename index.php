@@ -18,7 +18,7 @@
     text-align: center;
   }
   nav {
-    background-color: #AEB2D5;
+    background-color: #FFC0CB;
     padding: 0.5rem;
   }
   nav ul {
@@ -47,7 +47,8 @@
 <body>
 
 <header>
-  <h1>Amna's WEB APP</h1>
+  <h1>My Terminal Task</h1>
+  <h1>Tocs</h1>
 </header>
 
 <nav>
@@ -60,8 +61,8 @@
 </nav>
 
 <main>
-  <h2> Amna Bibi </h2>
-  <h2> Fa20-bse-033</h2>
+  <h2> Maria Hassan </h2>
+  <h2> Fa20-bse-049</h2>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lectus in justo tristique aliquet.</p>
 </main>
 
