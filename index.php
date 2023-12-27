@@ -61,8 +61,8 @@
 </nav>
 
 <main>
-  <h2> Maria Hassan </h2>
-  <h2> Fa20-bse-049</h2>
+  <h2> Aleesha </h2>
+  <h2> Fa20-bse-043</h2>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lectus in justo tristique aliquet.</p>
 </main>
 
