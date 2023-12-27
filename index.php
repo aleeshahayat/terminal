@@ -1,13 +1,73 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Your CV</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Simple Web Template</title>
+<style>
+  /* Basic styles */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  nav {
+    background-color: #444;
+    padding: 0.5rem;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  nav ul li {
+    display: inline;
+    margin-right: 1rem;
+  }
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  main {
+    padding: 2rem;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+</style>
 </head>
 <body>
-    <h1>Your CV</h1>
-    <p>Registration:FA20-BSE-025 #: SP19-BCS/BSE-00</p>
-    <p>Name: UM-E-AIMEN</p>
-    <p>Access the website at: http://localhost:9181</p>
-    <iframe src="cv.html"></iframe>
+
+<header>
+  <h1>Simple Web Template</h1>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Services</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+</nav>
+
+<main>
+  <h2>Welcome to our website!</h2>
+  <p>This is a simple web template using HTML and CSS.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lectus in justo tristique aliquet.</p>
+</main>
+
+<footer>
+  <p>&copy; 2023 Simple Web Template. All rights reserved.</p>
+</footer>
+
 </body>
 </html>
