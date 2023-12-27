@@ -60,7 +60,7 @@
 </nav>
 
 <main>
-  <h2> MyLabTerminal </h2>
+  <h2> Aleesha Tocs Terminal Task  </h2>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lectus in justo tristique aliquet.</p>
 </main>
 
