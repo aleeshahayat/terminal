@@ -47,7 +47,7 @@
 <body>
 
 <header>
-  <h1>Simple Web Template</h1>
+  <h1>WEB APP</h1>
 </header>
 
 <nav>
