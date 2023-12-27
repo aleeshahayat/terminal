@@ -47,20 +47,21 @@
 <body>
 
 <header>
-  <h1>WEB APP</h1>
+  <h1>Amna's WEB APP</h1>
 </header>
 
 <nav>
   <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Services</a></li>
-    <li><a href="#">Contact</a></li>
+    <li><a href="#">Web App</a></li>
+    <li><a href="#">Login here</a></li>
+    <li><a href="#">Information</a></li>
+    <li><a href="#">CV here</a></li>
   </ul>
 </nav>
 
 <main>
-  <h2> Aleesha Tocs Terminal Task  </h2>
+  <h2> Amna Bibi </h2>
+  <h2> Fa20-bse-033</h2>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lectus in justo tristique aliquet.</p>
 </main>
 
