@@ -60,7 +60,7 @@
 </nav>
 
 <main>
-  <h2> terminal test task 456</h2>
+  <h2> terminal 456</h2>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a lectus in justo tristique aliquet.</p>
 </main>
 
