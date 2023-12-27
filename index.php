@@ -18,7 +18,7 @@
     text-align: center;
   }
   nav {
-    background-color: #444;
+    background-color: #AEB2D5;
     padding: 0.5rem;
   }
   nav ul {
