@@ -30,7 +30,7 @@
     margin-right: 1rem;
   }
   nav ul li a {
-    color: #fff;
+    color: #006400;
     text-decoration: none;
   }
   main {
